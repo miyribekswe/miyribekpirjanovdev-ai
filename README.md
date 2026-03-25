@@ -1,93 +1,60 @@
-## Hi there 👋
-
-![banner](https://your-image-link.com/banner.png)
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" />
-</p>
-<div style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <h1 style="color:white;">My Project</h1>
-</div>
-| |
-|---|
-| 🟦 Бу ер фонга ўхшайди |
-![logo](https://via.placeholder.com/300)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=My%20Project&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Miyirbek&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">🚀 My Project</h1>
+<h1 align="center">👋 Hi, I'm Miyirbek</h1>
 
 <p align="center">
-  <b>Awesome modern project</b><br/>
-  Fast • Clean • Powerful
+  🚀 Frontend Developer | 💻 JavaScript Lover | 🎯 Always Learning
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/username/repo?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/username/repo?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=28&center=true&vCenter=true&width=500&lines=Hi+I'm+Miyirbek;Frontend+Developer;Welcome+to+my+GitHub" />
 </p>
 
 ---
 
-## 📸 Preview
+## 📸 About Me
 
-<p align="center">
-  <img src="images/logo.png" width="250"/>
-</p>
+* 🔭 I’m AL-Horazimiy miyrasxorlari students
+* 🌱 I’m learning React & Node.js
+* ⚡ I love clean UI and fast apps
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p>
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/username/project-name.git
-cd project-name
-npm install
-npm start
-```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Features
+## 📌 Projects
 
-* ⚡ Fast
-* 🎨 Beautiful UI
-* 🔥 Easy to use
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome!
+* 🌐 Awesome Website
+* 📱 Cool App
+* ⚙️ Useful Tool
 
 ---
 
 ## 📞 Contact
 
 <p align="center">
-  <a href="https://github.com/username">GitHub</a>
+  <a href="https://github.com/USERNAME">GitHub Profile</a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Don't forget to star this repo!
+  ⭐ Don't forget to follow me!
 </p>
