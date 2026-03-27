@@ -17,7 +17,7 @@
 ## 📸 About Me
 
 * 🔭 I’m AL-Horazimiy miyrasxorlari students
-* 🌱 I’m learning React & Html.css
+* 🌱 I’m learning HTML & CSS
 * ⚡ I love clean UI and fast apps
 
 ---
@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,,github,vscode" />
 </p>
 
 ---
