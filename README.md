@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Miyirbek</h1>
 
 <p align="center">
-  🚀 Frontend Developer | 💻 JavaScript Lover | 🎯 Always Learning
+  🚀 Frontend Developer | 💻 Html css Lover | 🎯 Always Learning
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ## 📸 About Me
 
 * 🔭 I’m AL-Horazimiy miyrasxorlari students
-* 🌱 I’m learning React & Node.js
+* 🌱 I’m learning React & Html.css
 * ⚡ I love clean UI and fast apps
 
 ---
